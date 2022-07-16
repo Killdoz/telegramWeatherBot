@@ -1,7 +1,6 @@
 import requests
 import telebot 
 import json
-from config import token_weather, token_telega
 
 
 
